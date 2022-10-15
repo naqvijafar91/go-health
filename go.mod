@@ -1,4 +1,4 @@
-module github.com/InVisionApp/go-health/v2
+module github.com/naqvijafar91/go-health/v2
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.3.3
@@ -17,7 +17,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/yuin/gopher-lua v0.0.0-20190514113301-1cd887cd7036 // indirect
-	github.com/zaffka/mongodb-boltdb-mock v0.0.0-20180816124423-49954d88fa3e
+	github.com/zaffka/mongodb-boltdb-mock v0.0.0-20221014194232-b4bb03fbe3a0
 )
 
 go 1.13
